@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "main.h": "c",
+        "ad9910.h": "c",
+        "AD9910V1.C": "cpp",
+        "AD9910.H": "cpp",
+        "stm32f4xx.h": "c"
+    }
+}
