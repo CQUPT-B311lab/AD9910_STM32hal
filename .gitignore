@@ -1,3 +1,5 @@
 Drivers/
 build/
 Middlewares/
+.vscode/
+.settings/
